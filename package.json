@@ -1,5 +1,5 @@
 {
-  "name": "cwmdevelopment",
+  "name": "sandboxreactapp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cmurray1105/cwmdevelopment.git"
+    "url": "git+https://github.com/cmurray1105/SandboxReactApp.git"
   },
   "author": "Christopher Murray",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cmurray1105/cwmdevelopment/issues"
+    "url": "https://github.com/cmurray1105/SandboxReactApp/issues"
   },
-  "homepage": "https://github.com/cmurray1105/cwmdevelopment#readme",
+  "homepage": "https://github.com/cmurray1105/SandboxReactApp#readme",
   "devDependencies": {
     "@babel/core": "^7.19.1",
     "@babel/preset-env": "^7.19.1",
